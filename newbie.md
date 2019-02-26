@@ -1,6 +1,6 @@
 #**The first Code
 # Heloo I'm Jarvis! Today is the first time i use GitHub. 
-##**InsertIM**: <img src="https://imgur.com/t/aww/WwZUoIS"> 
+##**InsertIM**: https://imgur.com/t/aww/WwZUoIS
 ##**Check chu bo**: `heloo`
 ##**Check doan van ban chu bo**:
 ```sh 
